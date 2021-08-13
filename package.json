@@ -1,5 +1,6 @@
 {
   "name": "algorithms-visualizer",
+  "homepage": "https://zolarsource.github.io/sorting-vizualizer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
